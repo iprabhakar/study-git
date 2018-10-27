@@ -1,4 +1,4 @@
 <?php
-echo info_php();
+echo phpninfo();
 
 ?>
