@@ -1,4 +1,4 @@
 <?php
-//echo phpninfo();
-echo "Hello DevOps";
+echo phpninfo;
+//echo "Hello DevOps";
 ?>
